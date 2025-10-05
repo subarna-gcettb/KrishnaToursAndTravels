@@ -1793,3 +1793,9 @@ video {
     margin-top: 5rem;
   }
 }
+
+@media (max-width: 425px) {
+  .zz{
+    width: 6rem;
+  }
+}
