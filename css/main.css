@@ -1799,3 +1799,15 @@ video {
     width: 6rem;
   }
 }
+
+
+@media (max-width: 447px) {
+  .zz{
+    width: 8rem;
+  }
+}
+@media (max-width: 420px) {
+  .zz{
+    width: 10rem;
+  }
+}
